@@ -1,0 +1,9 @@
+.venv/
+**/.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+chatgpt_browser_profile/
+backend/chatgpt_browser_profile/
+logWin/
